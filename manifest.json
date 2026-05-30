@@ -1,0 +1,26 @@
+{
+  "name": "EcoCartas Río Indio",
+  "short_name": "EcoCartas",
+  "description": "Juego educativo offline para descubrir la biodiversidad de la cuenca del Río Indio.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#092118",
+  "theme_color": "#0b2f22",
+  "lang": "es-PA",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
